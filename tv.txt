@@ -2467,11 +2467,17 @@ JJ斗地主,https://live.iill.top/bilibili/22021983
 广东卫视,http://221.2.148.205:8154/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://120.198.101.106:9901/tsfile/live/1009_1.m3u8?key=txiptv
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://CCTV-_p2p_hdxianggangweishi
+浙江卫视,https://migu.188766.xyz/?migutoken=069f4ed3852a03795a3ca5e824428ba5&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+浙江卫视,https://migu.188766.xyz/?migutoken=9596c1feef3de1106d29c6522c1c2a5b&id=z_jws&type=sz
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://CCTV-_p2p_zhejiang
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+湖南卫视,https://migu.188766.xyz/?migutoken=53d5c9d9c68c05c7cfce29a876eb2e32&id=hnws&type=sz
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
+湖南卫视,webview://https://www.mgtv.com/live/
+湖南卫视,http://sh.lnott.top:880/dx31.m3u8
 湖南卫视,http://221.2.148.205:8154/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://116.128.242.83:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2500,8 +2506,6 @@ JJ斗地主,https://live.iill.top/bilibili/22021983
 浙江卫视,webview://https://www.xuexi.cn/xxqg.html?id=0b0936946bd7416fa80aaeb4072f369a
 浙江卫视,webview://https://zmtv.cztv.com/cmsh5-share/prod/cztv-tvLive/index.html
 浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
-湖南卫视,webview://https://www.mgtv.com/live/
-湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
 湖北卫视,webview://https://www.xuexi.cn/xxqg.html?id=894c6f103e094ab58f51cf0f96870a3d
 湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
@@ -2848,7 +2852,7 @@ JJ斗地主,https://live.iill.top/bilibili/22021983
 天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
 辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
-湖南卫视,http://sh.lnott.top:880/dx31.m3u8
+
 江苏卫视,http://sh.lnott.top:880/dx33.m3u8
 吉林卫视,http://sh.lnott.top:880/dx37.m3u8
 厦门卫视,http://sh.lnott.top:880/dx48.m3u8
