@@ -2459,6 +2459,13 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,https://openhls-hw.douyucdn2.cn/live/488743rAHScWyyII_2000.m3u8?txSecret=5bd9d2096c5338aa9f264aed70172fee&txTime=6955117e&token=cpn-androidmpro-0-488743-6b0eec8f6aab6711f5361afb1b05cccd&did=10000000000000000000000000001501&origin=dy&vhost=play4&sid=425454405
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,https://live.iill.top/bilibili/22021983
+JJ斗地主,https://live.iill.top/douyu/108592
+
+JJ斗地主,http://dxa.yiandrive.com:39319/douyu/488743
+JJ斗地主,http://dxa.yiandrive.com:39319/bilibili/22021983
+JJ斗地主,http://dxa.yiandrive.com:39319/douyin/685317364746
+JJ斗地主,http://dxa.yiandrive.com:39319/huya/152698
+
 
 JJ斗地主,http://pull-hls-q13.douyincdn.com/thirdgame/stream-695054895540863806_sd.m3u8?arch_hrchy=s2&expire=1767797630&major_anchor_level=vip&rtm_expr_tag=reflow_room_info&s_anchor=1&sign=dfec900d9e34d41a566b3009be98c3e4&t_id=037-20251231225350D9A7766B0532A6093DB6-iZBFgU
 JJ斗地主,https://stream-shantou-cmcc-183-239-202-84.edgesrv.com/live/488743rAHScWyyII_4000h.flv?wsAuth=ca1616f762d2b364f4a4993ee32d1d5c&token=web-h5-0-488743-df8b1830ef2e6ce1aa77fac65c4a0a9d836e7c992a31781e&logo=0&expire=0&did=5807561cff41df4f9ae56d4800071701&ver=Douyu_new&pt=2&st=0&sid=425470261&mcid2=0&origin=dy&fcdn=scdn&fo=0&mix=0&isp=scdncmccgudst
