@@ -1136,11 +1136,12 @@ CCTV-17,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8
 CCTV-4K,http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
 
 🏀体育频道,#genre#
+JJ斗地主,https://cdn.ttvb.eu.org/douyu/488743
+JJ斗地主,https://cdn.ttvb.eu.org/bilibili/22021983
+JJ斗地主,https://cdn.ttvb.eu.org/douyin/jjworld
+JJ斗地主,https://cdn.ttvb.eu.org/huya/152698
 JJ斗地主,https://cdn-3.ttvb.eu.org/bilibili/22021983
 JJ斗地主,https://cdn-3.ttvb.eu.org/douyu/488743
-JJ斗地主,https://cdn-3.ttvb.eu.org/huya/152698
-JJ斗地主,https://cdn-3.ttvb.eu.org/douyin/jjworld
-JJ斗地主,https://cdn-3.ttvb.eu.org/douyin/685317364746
 
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,https://live.iill.top/douyin/685317364746
@@ -3642,16 +3643,20 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 
 🌊港·澳·台,#genre#
+凤凰中文,https://iptv.1989.click/phoenix/ct48jj?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
 凤凰中文,https://tv.iill.top/phenix/fhzw&token=117d5d39c573884501771422bdd22fca3be491d1a3f84d456507da001c9fbddf
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv
 凤凰中文,http://xjdd.top:8500/rtp/233.50.200.191:5140
 凤凰中文,http://zjhuct.synology.me:8881/rtp/233.50.200.191:5140
 凤凰中文,http://www.yeqi.eu.org:4000/rtp/233.50.200.191:5140
+凤凰资讯,https://iptv.1989.click/phoenix/4c6duc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
 凤凰资讯,http://183.162.121.169:9901/tsfile/live/1064_1.m3u8?key=txiptv
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv
 凤凰资讯,http://xjdd.top:8500/rtp/233.50.200.192:5140
 凤凰资讯,http://zjhuct.synology.me:8881/rtp/233.50.200.192:5140
 凤凰资讯,http://www.yeqi.eu.org:4000/rtp/233.50.200.192:5140
+凤凰香港,https://iptv.1989.click/phoenix/zad6d6?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+翡翠台,https://iptv.1989.click/hk/8j9626?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
 翡翠台,http://120.196.235.42:9901/tsfile/live/1006_1.m3u8?key=txiptv
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
